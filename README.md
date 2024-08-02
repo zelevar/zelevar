@@ -13,4 +13,4 @@ Hi 👋, I'm **zelevar** – a passionate junior developer and also a graphic de
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zelevar&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&hide_title=true&layout=compact&border_radius=14)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zelevar&hide_border=true&theme=github_dark&rank_icon=github&langs_count=5&custom_title=WakaTime&border_radius=14)](https://wakatime.com/@zelevar)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zelevar&hide_border=true&theme=github_dark&langs_count=5&custom_title=WakaTime・Last%20week&border_radius=14)](https://wakatime.com/@zelevar)
